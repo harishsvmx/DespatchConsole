@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66965" started-at="2019-04-23T10:45:56Z" finished-at="2019-04-23T10:47:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66965" started-at="2019-04-23T10:45:56Z" finished-at="2019-04-23T10:47:03Z">
+      <class name="com.bryntum.test.SampleTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.bryntum.test.SampleTest@8bd1b6a]" name="initDriver" is-config="true" duration-ms="37729" started-at="2019-04-23T16:15:56Z" finished-at="2019-04-23T16:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="testScenario()[pri:0, instance:com.bryntum.test.SampleTest@8bd1b6a]" name="testScenario" duration-ms="29219" started-at="2019-04-23T16:16:34Z" finished-at="2019-04-23T16:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScenario -->
+      </class> <!-- com.bryntum.test.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
